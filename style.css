@@ -1,0 +1,47 @@
+body{
+
+font-family: 'The Nautigal', cursive;
+background-color: rgb(208, 181, 233);
+
+}
+
+.header_div{
+
+background: rgb(245, 240, 242);
+color: rgb(5, 5, 73);
+
+}
+
+.header_div p{
+
+font-family:'Inconsolata', monospace;
+color: rgb(8, 1, 1);
+letter-spacing: 2px;
+font-size: 15px ;
+font-weight: bold;
+
+}
+
+.main_div button{
+
+font-family:'Inconsolata', monospace;
+margin-top: 30px;
+width: 150px;
+font-weight: bolder;
+letter-spacing: 2px;
+
+}
+
+.copy_right_footer{
+
+position: fixed;
+background-color: rgb(247, 208, 229);
+color: rgb(59, 3, 29);
+bottom: 0;
+width: 100%;
+font-size: 18px;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(85, 55, 85);
+
+}
